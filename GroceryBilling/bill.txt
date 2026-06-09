@@ -1,0 +1,8 @@
+----- Grocery Bill -----
+Item	Price	Qty	Total
+curd	20.0	2	40.0
+Milk	30.0	2	60.0
+
+Subtotal: 100.0
+Tax: 0.0
+Grand Total: 100.0
